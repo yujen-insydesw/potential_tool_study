@@ -9,6 +9,18 @@ https://hackmd.io/c/tutorials-tw/%2F%40docs%2Finterface-view-tw
 ## readme & uml
 https://github.com/Zingam/UML-in-Markdown/blob/master/README.md
 
+## wsl
+https://blog.csdn.net/qq_63432403/article/details/130297605
+
+wsl --shutdown 
+
+wsl --export Ubuntu-22.04 "E:\Wsl\Ubuntu.tar" 
+
+wsl --unregister Ubuntu-22.04 
+
+wsl --import Ubuntu-22.04 "E:\Wsl" "E:\Wsl\Ubuntu.tar" 
+
+Ubuntu2204 config --default-user golemon 
 
 ## vmware
 1. **Enable Intel VT-x in BIOS**:
