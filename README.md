@@ -35,3 +35,41 @@ https://github.com/pashayogi/VMware-Workstation-Pro-16-license-keys
 ### vmware tool (for drap and ... / copy and paste)
 <img width="528" alt="螢幕擷取畫面 2024-08-23 144258" src="https://github.com/user-attachments/assets/7d6e2bb6-bb55-4ea9-be7d-36ed42f9cd81">
 
+### openssh
+
+安裝 OpenSSH 服務：
+sudo apt-get update
+sudo apt-get install openssh-server
+
+啟動 SSH 服務
+sudo systemctl start ssh
+
+設置 SSH 服務開機自啟
+sudo systemctl enable ssh
+
+確認 SSH 服務已經正常運行：
+sudo systemctl status ssh
+
+### check firewall
+
+nc -z -v <ip> <port:20-80>
+
+Test-NetConnection -ComputerName 192.168.174.128 -Port 22
+
+- Open a Specific Port
+sudo ufw enable
+
+- Allow a Specific Port (e.g., port 22 for SSH):
+sudo ufw allow 22/tcp
+
+- Allow a Range of Ports (e.g., ports 1000 to 2000):
+sudo ufw allow 1000:2000/tcp
+
+- Allow a Port for a Specific Service (e.g., HTTP):
+sudo ufw allow http
+
+- Open All Ports
+sudo ufw disable
+
+- Check Firewall Status
+sudo ufw status
