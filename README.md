@@ -31,3 +31,7 @@ Ubuntu2204 config --default-user golemon
 https://vmware-workstation.informer.com/download/
 https://github.com/pashayogi/VMware-Workstation-Pro-16-license-keys
 ![Untitled](https://github.com/user-attachments/assets/820e9b11-78db-4914-b2ad-069e0691f7ee)
+
+### vmware tool (for drap and ... / copy and paste)
+<img width="528" alt="螢幕擷取畫面 2024-08-23 144258" src="https://github.com/user-attachments/assets/7d6e2bb6-bb55-4ea9-be7d-36ed42f9cd81">
+
