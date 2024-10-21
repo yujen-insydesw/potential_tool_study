@@ -6,6 +6,20 @@ https://xenby.com/b/221-教學-使用-visual-studio-code-透過-ssh-進行遠端
 
 https://xenby.com/b/221-%E6%95%99%E5%AD%B8-%E4%BD%BF%E7%94%A8-visual-studio-code-%E9%80%8F%E9%81%8E-ssh-%E9%80%B2%E8%A1%8C%E9%81%A0%E7%AB%AF%E7%A8%8B%E5%BC%8F%E9%96%8B%E7%99%BC)
 
+## vscode short cut
+
+### go to definition
+ctrl + click
+
+### find command
+ctrl + shift + p
+
+### go to line
+crtl + G : line number
+
+### reference
+https://youtu.be/_4rSbklsVkk?si=guKC7-wlsy0pr3nb
+
 ## draw uml
 https://bramp.github.io/js-sequence-diagrams/
 
@@ -56,6 +70,10 @@ sudo systemctl enable ssh
 確認 SSH 服務已經正常運行：
 sudo systemctl status ssh
 
+
+ssh 設定
+https://hackmd.io/@W855Yo-6R22n28iWVYZdVw/HJwUo8yzT
+
 ### check firewall
 
 nc -z -v <ip> <port:20-80>
@@ -79,3 +97,28 @@ sudo ufw disable
 
 - Check Firewall Status
 sudo ufw status
+
+
+## virtual box
+
+### internet bride setting
+
+how to set
+https://www.youtube.com/watch?v=rhFLfwZzlGA
+
+## Install common dev tool
+
+### for ifconfig
+sudo apt install net-tools
+
+### ssh
+sudo apt install openssh-server openssh-clients
+
+#### linux kernel header
+sudo apt-get install linux-headers-$(uname -r)
+
+### lib
+sudo apt-get install libboost-all-dev libsystemd-dev
+
+### language / compiler
+sudo apt install git meson libtool pkg-config gcc g++ npm python3 python3-pip python3-yaml python3-mako python3-inflection
