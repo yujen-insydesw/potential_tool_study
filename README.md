@@ -54,6 +54,10 @@ wsl --import Ubuntu-22.04 "E:\Wsl" "E:\Wsl\Ubuntu.tar"
 
 Ubuntu2204 config --default-user golemon 
 
+## wireshark
+
+https://ithelp.ithome.com.tw/articles/10300987
+
 ## vmware
 1. **Enable Intel VT-x in BIOS**:
     - Restart your computer and enter the BIOS setup utility (usually by pressing a key like F2 or Del during startup).
@@ -133,7 +137,7 @@ sudo apt-get install linux-headers-$(uname -r)
 sudo apt-get install libboost-all-dev libsystemd-dev
 
 ### language / compiler
-sudo apt install git meson libtool pkg-config gcc g++ npm python3 python3-pip python3-yaml python3-mako python3-inflection
+sudo apt install git meson libtool pkg-config gcc g++ cmake npm python3 python3-pip python3-yaml python3-mako python3-inflection
 
 ## windows 工作排程
 
