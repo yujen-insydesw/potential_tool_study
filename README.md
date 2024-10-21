@@ -23,6 +23,9 @@ ctrl + click
 ### find command
 ctrl + shift + p
 
+### toggle silde bar
+ctrl + B
+
 ### go to line
 crtl + G : line number
 
