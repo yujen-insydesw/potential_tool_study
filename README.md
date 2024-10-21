@@ -131,3 +131,9 @@ sudo apt-get install libboost-all-dev libsystemd-dev
 
 ### language / compiler
 sudo apt install git meson libtool pkg-config gcc g++ npm python3 python3-pip python3-yaml python3-mako python3-inflection
+
+## windows 工作排程
+
+![1](https://github.com/user-attachments/assets/a2fd9884-9efe-4332-b9cd-c4fa887dd2a3)
+![2](https://github.com/user-attachments/assets/6da9f5ec-d82b-494a-92fb-647af8b264a9)
+![3](https://github.com/user-attachments/assets/72ab59d2-8460-4073-9477-228a9cf2e289)
