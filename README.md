@@ -8,6 +8,15 @@ https://xenby.com/b/221-%E6%95%99%E5%AD%B8-%E4%BD%BF%E7%94%A8-visual-studio-code
 
 ## vscode short cut
 
+### rename symbol
+...
+
+### add selection match
+crtl + D
+
+### duplicate line
+<img width="382" alt="duplicate_lines" src="https://github.com/user-attachments/assets/0d9551a6-e7fb-42ef-b6ba-ccd5da6683b7">
+
 ### go to definition
 ctrl + click
 
