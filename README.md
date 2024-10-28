@@ -1,5 +1,8 @@
 # potential_tool_study
 
+## WOL (Wake On Lan) 網絡喚醒遠端開機功能-在外就能讓電腦開機
+https://www.intone.cc/2018/07/wol-wake-on-lan-%E7%B6%B2%E7%B5%A1%E5%96%9A%E9%86%92%E9%81%A0%E7%AB%AF%E9%96%8B%E6%A9%9F%E5%8A%9F%E8%83%BD/#google_vignette
+
 ## vscode remote develop (via ssh)
 
 https://xenby.com/b/221-教學-使用-visual-studio-code-透過-ssh-進行遠端程式開發
