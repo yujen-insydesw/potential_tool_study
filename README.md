@@ -60,6 +60,9 @@ wsl --install -d <version name>
 sudo apt install ubuntu-gnome-desktop
 # run (not yet workable)
 startx
+
+# another way to install desktop (still have some bugs)
+# https://ivonblog.com/posts/run-linux-desktop-on-wsl/
 ```
 
 from reference \
