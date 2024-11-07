@@ -45,8 +45,26 @@ https://hackmd.io/c/tutorials-tw/%2F%40docs%2Finterface-view-tw
 https://github.com/Zingam/UML-in-Markdown/blob/master/README.md
 
 ## wsl
-https://blog.csdn.net/qq_63432403/article/details/130297605
 
+normal install \
+https://www.howtogeek.com/744328/how-to-install-the-windows-subsystem-for-linux-on-windows-11/?form=MG0AV3
+```console
+# list available version
+wsl -l -o
+
+# install
+wsl --install
+wsl --install -d <version name>
+
+# install desktop (not yet workable)
+sudo apt install ubuntu-gnome-desktop
+# run (not yet workable)
+startx
+```
+
+from reference \
+https://blog.csdn.net/qq_63432403/article/details/130297605
+```console
 wsl --shutdown 
 
 wsl --export Ubuntu-22.04 "E:\Wsl\Ubuntu.tar" 
@@ -56,6 +74,7 @@ wsl --unregister Ubuntu-22.04
 wsl --import Ubuntu-22.04 "E:\Wsl" "E:\Wsl\Ubuntu.tar" 
 
 Ubuntu2204 config --default-user golemon 
+```
 
 ## wireshark
 
