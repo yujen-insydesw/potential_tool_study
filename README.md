@@ -65,7 +65,12 @@ startx
 # https://ivonblog.com/posts/run-linux-desktop-on-wsl/
 ```
 
-from reference \
+a command that starts WSL 2 VM, exits, and WSL 2 VM and instance are left running:
+```console
+wsl --exec dbus-launch true
+```
+
+other references \
 https://blog.csdn.net/qq_63432403/article/details/130297605
 ```console
 wsl --shutdown 
