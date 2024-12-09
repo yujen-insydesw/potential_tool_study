@@ -174,3 +174,9 @@ sudo apt install git meson libtool pkg-config gcc g++ cmake npm python3 python3-
 ![1](https://github.com/user-attachments/assets/a2fd9884-9efe-4332-b9cd-c4fa887dd2a3)
 ![2](https://github.com/user-attachments/assets/6da9f5ec-d82b-494a-92fb-647af8b264a9)
 ![3](https://github.com/user-attachments/assets/72ab59d2-8460-4073-9477-228a9cf2e289)
+
+## RJ45
+![MIT-MCT2-86_8](https://github.com/user-attachments/assets/3c732c4b-4e55-45a5-96b2-9acfd85688e3)
+
+![view](https://github.com/user-attachments/assets/9c2075c5-d86e-4137-b7b0-f2c499de1d9e)
+
